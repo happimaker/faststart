@@ -1,7 +1,7 @@
 ## Running
 ### How to install dependencies
 ```
-npm install
+yarn install
 ```
 ### Upload
 ```
